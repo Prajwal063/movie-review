@@ -1,0 +1,3 @@
+OEzEh0TC0vepmiEu - password
+
+mongodb+srv://PrajwalP:OEzEh0TC0vepmiEu@cluster0.flbidqz.mongodb.net/ - uri
